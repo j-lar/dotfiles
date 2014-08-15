@@ -1,0 +1,1 @@
+hardstatus alwayslastline '%{= dd}%{= Wr} %D %d %M %c > %{= Ww}%-w%{= Wk}%n %t%{= Ww}%+w %{= dd} %='
