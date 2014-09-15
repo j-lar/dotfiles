@@ -1,4 +1,4 @@
-Clone or download this repo into cd ~/dotfiles
+Clone or download this repo into ~/dotfiles
 
 chmod +x bootstrap.sh
 
