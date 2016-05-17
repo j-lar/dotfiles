@@ -2,7 +2,7 @@
 
 dir=~/dotfiles
 olddir=~/dotfiles_old
-files=".bashrc .screenrc .gitconfig .zshrc"
+files=".bashrc .screenrc .gitconfig .zshrc .vimrc"
 
 ###
 
