@@ -6,7 +6,10 @@ files=".bashrc .screenrc .gitconfig .zshrc .vimrc"
 
 ###
 
-# creade dofiles_old
+# install oh-my-zsh
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+# create dotfiles_old
 echo "Creating $olddir for backup of existing dotfiles"
 mkdir -p $olddir
 echo "...done"
